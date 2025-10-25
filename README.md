@@ -2,7 +2,7 @@
 # Sistema de Optimización de Rutas en Envíos - Versión con Arboles (SEGUNDA ENTREGA)
 
 ## Contexto del Problema
-Las empresas de envío enfrentan constantementte el reto constante de optimizar sus rutas de distribución para reducir tiempos, costos de transporte y mejorar la eficiencia logística.  
+Las empresas de envío enfrentan constantemente el reto constante de optimizar sus rutas de distribución para reducir tiempos, costos de transporte y mejorar la eficiencia logística.  
 Este proyecto busca resolver ese problema mediante un **sistema de optimización de rutas**, que representa la red de ubicaciones y conexiones entre ellas utilizando **estructuras de datos tipo árbol**, el cual en un futuro será actualizado usando grafos.
 
 El sistema permite:
