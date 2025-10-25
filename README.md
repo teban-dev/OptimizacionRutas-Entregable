@@ -1,9 +1,9 @@
 
-# Sistema de Optimización de Rutas en Envíos - Versión 2
+# Sistema de Optimización de Rutas en Envíos - Versión con Arboles (SEGUNDA ENTREGA)
 
 ## Contexto del Problema
-Las empresas de envío enfrentan el reto constante de optimizar sus rutas de distribución para reducir tiempos, costos de transporte y mejorar la eficiencia logística.  
-Este proyecto busca resolver ese problema mediante un **sistema de optimización de rutas**, que representa la red de ubicaciones y conexiones entre ellas utilizando **estructuras de datos tipo árbol**.
+Las empresas de envío enfrentan constantementte el reto constante de optimizar sus rutas de distribución para reducir tiempos, costos de transporte y mejorar la eficiencia logística.  
+Este proyecto busca resolver ese problema mediante un **sistema de optimización de rutas**, que representa la red de ubicaciones y conexiones entre ellas utilizando **estructuras de datos tipo árbol**, el cual en un futuro será actualizado usando grafos.
 
 El sistema permite:
 - Registrar nuevas ubicaciones dentro de una red de distribución.  
@@ -11,7 +11,7 @@ El sistema permite:
 - Visualizar la red completa de manera jerárquica.  
 - Consultar rutas, buscar ubicaciones y calcular caminos más cortos entre dos puntos.  
 
-Este enfoque facilita modelar de forma jerárquica la distribución —desde el **Centro de Distribución principal** hasta los distintos puntos de entrega—, mejorando la toma de decisiones en la planificación de envíos.
+Este enfoque permite modelar de forma jerárquica la distribución —desde el **Centro de Distribución principal** hasta los distintos puntos de entrega—, mejorando la toma de decisiones en la planificación de envíos.
 
 ---
 
@@ -59,7 +59,7 @@ print_tree(raiz)
 ## Entorno de Desarrollo
 
 ### Google Colab
-Se usó como entorno principal de desarrollo, ya que permite ejecutar código Python en la nube sin necesidad de configuración local, además de facilitar la instalación de librerías mediante comandos `pip`.
+Se usó como entorno principal de desarrollo, ya que permite ejecutar código Python en la nube sin necesidad de configuración local, además de facilitar la instalación de librerías mediante comandos `pip` y permite el trabajo de todos de forma asincronica.
 
 ### GitHub
 Utilizado como repositorio para documentar y compartir el código. Debe contener:
@@ -68,7 +68,3 @@ Utilizado como repositorio para documentar y compartir el código. Debe contener
 - Archivo `README.md` con la descripción, dependencias e instrucciones de ejecución.  
 
 ---
-
-## Conclusión
-El proyecto demuestra cómo el uso de **árboles jerárquicos** puede aplicarse a la optimización de rutas en empresas de envíos.  
-La estructura basada en nodos permite una gestión ordenada, búsqueda rápida de ubicaciones y visualización clara de las conexiones, haciendo el sistema escalable y entendible.
