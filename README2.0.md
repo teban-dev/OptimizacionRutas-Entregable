@@ -41,21 +41,21 @@ estructuras de datos avanzadas y su aplicación en soluciones reales.
 
 ## Estructuras de Datos Utilizadas
 
-### ✔ Listas de Adyacencia
+###  Listas de Adyacencia
 
 Permiten modelar de forma eficiente qué rutas salen desde cada ubicación
 y hacia dónde se dirigen.
 
-### ✔ Matriz de Adyacencia
+###  Matriz de Adyacencia
 
 Implementada como parte del análisis para ver la conectividad global del
 grafo.
 
-### ✔ Lista de Aristas
+###  Lista de Aristas
 
 Registro lineal de las rutas creadas y sus distancias.
 
-### ✔ Diccionarios
+###  Diccionarios
 
 Base del grafo que permite acceso rápido a cada ubicación.
 
