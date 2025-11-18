@@ -101,18 +101,18 @@ Esta implementación consolida los conceptos vistos en clase sobre estructuras d
 ## Estructuras de Datos Utilizadas
 El proyecto empleó múltiples estructuras de datos para representar de manera completa la red de rutas:
 
-### ✔ Listas de Adyacencia
+###  Listas de Adyacencia
 Permiten modelar de forma eficiente qué rutas salen desde cada ubicación y hacia dónde se dirigen.  
 Son útiles para recorridos, búsquedas y cálculos de rutas.
 
-### ✔ Matriz de Adyacencia
+###  Matriz de Adyacencia
 Aunque no usada directamente en el menú, fue implementada como parte del proceso de análisis del grafo.  
 Permite ver de forma global qué nodos están conectados entre sí.
 
-### ✔ Lista de Aristas
+###  Lista de Aristas
 Facilita el registro lineal de todas las conexiones con sus distancias.
 
-### ✔ Diccionarios en Python
+###  Diccionarios en Python
 Base de la estructura general del grafo, permitiendo un acceso directo y eficiente a las ubicaciones.
 
 ---
