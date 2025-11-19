@@ -1,5 +1,5 @@
 # Sistema de Optimización de Rutas en Envíos  
-### Primera Etapa
+
 
 ## Integrantes
 - Angel Camilo Sierra Carvajal – 2242007  
@@ -7,6 +7,7 @@
 - Juan David Ortiz Ochoa – 2242038  
 
 ---
+### Primera Etapa
 
 ## Descripción del Problema
 El proyecto aborda la necesidad de gestionar eficientemente una red de rutas de envío entre distintas ubicaciones.  
@@ -97,17 +98,6 @@ El sistema permite:
 Este enfoque permite modelar de forma jerárquica la distribución —desde el **Centro de Distribución principal** hasta los distintos puntos de entrega—, mejorando la toma de decisiones en la planificación de envíos.
 
 ---
-
-## Integrantes del Proyecto
-- Juan David Ortiz Ochoa (2242038)  
-- Juan Esteban Gomez Ayala (2243465)  
-- Ángel Sierra (2242007)  
-
-**Profesora:** Nury Farelo  
-**Fecha:** 24/10/2025
-
----
-
 ## Herramientas Utilizadas
 
 ### Lenguaje de Programación: Python 3
@@ -170,17 +160,6 @@ El sistema permite:
 Esta implementación consolida los conceptos vistos en clase sobre estructuras de datos avanzadas y su aplicación en soluciones reales.
 
 ---
-
-## Integrantes del Proyecto
-- Juan David Ortiz Ochoa (2242038)
-- Juan Esteban Gomez Ayala (2243465)
-- Ángel Sierra (2242007)
-
-**Profesora:** Nury Farelo  
-**Fecha:** 17/11/2025
-
----
-
 ## Estructuras de Datos Utilizadas
 El proyecto empleó múltiples estructuras de datos para representar de manera completa la red de rutas:
 
