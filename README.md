@@ -72,7 +72,7 @@ El sistema permite:
 
 Este enfoque permite modelar de forma jerárquica la distribución —desde el **Centro de Distribución principal** hasta los distintos puntos de entrega—, mejorando la toma de decisiones en la planificación de envíos.
 
-#TERCERA ENTREGA
+
 # Sistema de Optimización de Rutas en Envíos - Versión con final con Grafos (TERCERA ENTREGA)
 
 ## Contexto del Problema
