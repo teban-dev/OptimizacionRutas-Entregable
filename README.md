@@ -39,34 +39,8 @@ Cada ubicación es representada como un nodo, y cada nodo contiene una lista enl
 
 ---
 
-## Funciones Implementadas
-Conforme a lo solicitado en la entrega, el sistema incluye:
-
-- Verificar si la lista está vacía.  
-- Contar los elementos de la lista.  
-- Imprimir los elementos.  
-- Agregar elementos al inicio de la lista.  
-- Buscar elementos usando ordenamiento (Bubble Sort).  
-
----
-
 ## Descripción del Proyecto
-El sistema gestiona puntos o ubicaciones, almacenados en una lista enlazada.  
-Cada ubicación puede estar conectada con otras por medio de rutas, incluyendo su distancia correspondiente.
 
-- Las ubicaciones funcionan como nodos.  
-- Las rutas representan conexiones entre nodos.  
-- Toda la red se modela como una lista enlazada dinámica.
-
-El programa presenta un menú que permite:
-
-1. Agregar ubicaciones.  
-2. Agregar rutas entre ubicaciones.  
-3. Mostrar la red completa de rutas.  
-4. Verificar si la red está vacía.  
-5. Contar ubicaciones.  
-6. Buscar y ordenar ubicaciones.  
-7. Salir.
 
 ### Funcionamiento General
 
