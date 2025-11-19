@@ -1,5 +1,5 @@
 # Sistema de Optimización de Rutas en Envíos  
-### Primera Entrega – 12/09/2025
+### Primera Etapa
 
 ## Integrantes
 - Angel Camilo Sierra Carvajal – 2242007  
