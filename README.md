@@ -1,4 +1,4 @@
-(Resumen general del proyecto, si se quiere ver más en detalle alguna de las 3 etapas, por favor revise los "Readme.md especificos" y codigos correspondietes a cada etapa)
+(Resumen general del proyecto, si se quiere ver más en detalle alguna de las 3 etapas, por favor revise los "Readme.md especificos" y codigos correspondientes a cada etapa)
 # Sistema de Optimización de Rutas en Envíos  
 
 
