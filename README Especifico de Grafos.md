@@ -1,4 +1,4 @@
-## TERCERA ENTREGA
+## TERCERA ETAPA
 
 # Sistema de Optimización de Rutas en Envíos - Versión Final (Grafos)
 
