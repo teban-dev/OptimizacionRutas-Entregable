@@ -7,7 +7,7 @@
 - Juan David Ortiz Ochoa – 2242038  
 
 ---
-### Primera Etapa
+### Primera Etapa-Versión Con Listas Enlazadas
 
 ## Descripción del Problema
 El proyecto aborda la necesidad de gestionar eficientemente una red de rutas de envío entre distintas ubicaciones.  
