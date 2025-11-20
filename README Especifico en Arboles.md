@@ -76,7 +76,6 @@ La red conforma una estructura jerárquica donde cada nodo puede tener varios de
 
 ---
 
-## Funcionalidades del Sistema
 El sistema cuenta con un menú interactivo que permite realizar las siguientes operaciones:
 
 - Agregar ubicaciones independientes.  
