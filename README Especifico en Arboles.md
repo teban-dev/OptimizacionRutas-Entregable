@@ -67,8 +67,6 @@ Utilizado como repositorio para documentar y compartir el código. Debe contener
 - Carpeta con la versión actual implementada con árboles.  
 - Archivo `README.md` con la descripción, dependencias e instrucciones de ejecución.
 
-# Sistema de Gestión y Optimización de Rutas de Envío
-
 ## Descripción del Proyecto
 Este proyecto implementa un sistema de gestión de rutas de envío utilizando una **estructura de árbol**.  
 Cada ubicación se representa como un nodo dentro de una red que parte desde un nodo raíz llamado **Centro_Distribucion**.  
