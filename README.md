@@ -72,6 +72,18 @@ El sistema permite:
 
 Este enfoque permite modelar de forma jerárquica la distribución —desde el **Centro de Distribución principal** hasta los distintos puntos de entrega—, mejorando la toma de decisiones en la planificación de envíos.
 
+## Descripción del Proyecto
+Este proyecto implementa un sistema de gestión de rutas de envío utilizando una **estructura de árbol**.  
+Cada ubicación se representa como un nodo dentro de una red que parte desde un nodo raíz llamado **Centro_Distribucion**.  
+A partir de este nodo principal se pueden agregar nuevas ubicaciones y establecer rutas entre ellas indicando la distancia que las separa.
+
+La red conforma una estructura jerárquica donde cada nodo puede tener varios destinos asociados, permitiendo organizar los puntos de entrega y entender sus conexiones.
+
+---
+## Conclusión
+Este programa ofrece una herramienta estructurada y funcional para la gestión y análisis de redes de rutas de envío.  
+Permite registrar ubicaciones, conectar puntos mediante distancias y determinar rutas óptimas dentro de una estructura arbórea, facilitando la planificación logística.
+
 
 # Sistema de Optimización de Rutas en Envíos - Versión con final con Grafos (TERCERA ENTREGA)
 
